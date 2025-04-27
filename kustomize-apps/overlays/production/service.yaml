@@ -4,7 +4,7 @@ metadata:
   name: demo
 spec:
   ports:
-  - nodePort: 31000
+  - nodePort: 31001
     protocol: TCP
-    port: 8080
+    port: 8081
 
